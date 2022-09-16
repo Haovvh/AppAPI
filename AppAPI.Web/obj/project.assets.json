@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\A\\.nuget\\packages\\": {}
+    "C:\\Users\\HAO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\A\\Desktop\\WebAPI01\\AppAPI.Web\\AppAPI.Web.csproj",
+      "projectUniqueName": "D:\\Code\\AppAPI.Web\\AppAPI.Web.csproj",
       "projectName": "AppAPI.Web",
-      "projectPath": "C:\\Users\\A\\Desktop\\WebAPI01\\AppAPI.Web\\AppAPI.Web.csproj",
-      "packagesPath": "C:\\Users\\A\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\A\\Desktop\\WebAPI01\\AppAPI.Web\\obj\\",
+      "projectPath": "D:\\Code\\AppAPI.Web\\AppAPI.Web.csproj",
+      "packagesPath": "C:\\Users\\HAO\\.nuget\\packages\\",
+      "outputPath": "D:\\Code\\AppAPI.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\A\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HAO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -51,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -64,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
